@@ -1,0 +1,5 @@
+1- Make a copy of the population in the backup folder.
+2- make a function to kill half the population randomly.
+3- call the func several times to kill the entire population( half the population each time).
+4- Import the population again to the universe folder from the backup folder.
+5- Extra point: Create another folder and take a copy from the population with different random names.
